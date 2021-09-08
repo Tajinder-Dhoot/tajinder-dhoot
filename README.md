@@ -1,26 +1,26 @@
 ### Hi there! 👋 I am a Software QA Tester learning new technologies. 
 
-Thanks for visiting my profile on Github. Let me share with you what I excel in:
+# Thanks for visiting my profile on Github. Let me share with you what I excel in:
 
 ## Tools and Technologies
 - Selenium
 - Katalon Studio
 - Postman
-Jmeter
-Jenkins
-Jira
-BugZilla
-Git
-Visual Studio
-MySql Workbench
-UiPath
+- Jmeter
+- Jenkins
+- Jira
+- BugZilla
+- Git
+- Visual Studio
+- MySql Workbench
+- UiPath
 
 ## Languages
-Java
-HTML
-CSS
-JavaScript
-SQL
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
 
 <!--
 **Tajinder-Dhoot/tajinder-dhoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
