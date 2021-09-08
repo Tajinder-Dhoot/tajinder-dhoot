@@ -1,6 +1,8 @@
-### Hi there 👋 I am a Software QA Tester learning new technologies.
+Hi there! 👋 I am a Software QA Tester learning new technologies. 
 
 Thanks for visiting my profile on Github. Let me share with you what I excel in:
+(https://img.shields.io/github/issues/praveenscience/Internship-LMS-FrontEnd?color=green&logo=github&style=flat
+
 
 Tools and Technologies
 Selenium
