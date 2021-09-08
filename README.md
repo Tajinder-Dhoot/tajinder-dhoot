@@ -3,6 +3,10 @@ Hi there! 👋 I am a Software QA Tester learning new technologies.
 Thanks for visiting my profile on Github. Let me share with you what I excel in:
 (https://img.shields.io/github/issues/praveenscience/Internship-LMS-FrontEnd?color=green&logo=github&style=flat
 
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+
+<img src="{https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}" />
+
 
 Tools and Technologies
 Selenium
