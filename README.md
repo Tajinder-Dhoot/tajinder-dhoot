@@ -1,6 +1,7 @@
-### Hi there! 👋 I am a Software QA Tester learning new technologies. 
+### Hi Visitor! 👋 
 
-# Thanks for visiting my profile on Github. Let me share with you what I excel in:
+#### I am a Software QA Tester learning new technologies. 
+#### Thanks for visiting my profile on Github. Let me share with you what I excel in:
 
 ## Tools and Technologies
 - Selenium
