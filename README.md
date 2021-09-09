@@ -5,7 +5,7 @@
 - 👯 I’m looking for full-time opportunities in software testing
 #### Thanks for visiting my profile on Github. Let me share with you what I excel in:
 
-## 🛠️ Tech Stack
+## ⚔️ Tech Artillery
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
 ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit)&nbsp;
 ![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=flat&logo=testng)&nbsp;
