@@ -1,8 +1,9 @@
 # Hi Visitor! 👋 My name is Tajinder Singh Dhoot 👳‍♂️
 
 #### I am a Software QA Analyst 👨‍💻
+- 🧑‍💼 Trainee @ FDM Group
 - 🔭 I’m currently working on web automation projects
-- 👯 I’m looking for full-time opportunities in software testing
+
 #### Thanks for visiting my profile on Github. Let me share with you what I excel in:
 
 ## ⚔️ Tech Artillery
