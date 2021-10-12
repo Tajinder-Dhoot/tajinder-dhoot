@@ -21,6 +21,7 @@
 ![BugZilla](https://img.shields.io/badge/-BugZilla-05122A?style=flat&logo=BugZilla)
 ![UiPath](https://img.shields.io/badge/-UiPath-05122A?style=flat&logo=UiPath)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![MySql Workbench](https://img.shields.io/badge/-MySql%20Workbench-05122A?style=flat&logo=sql-workbench)&nbsp;
 
