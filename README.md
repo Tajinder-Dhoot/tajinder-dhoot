@@ -2,7 +2,8 @@
 
 #### I am a Software QA Analyst 👨‍💻
 - 🧑‍💼 IT Consultant @ FDM Group
-- 🔭 I’m currently working on web automation projects
+- 🔭 I’m currently working with Staples Canada
+- Working on API testing and personal projects
 
 #### Thanks for visiting my profile on Github. Let me share with you what I excel in:
 
