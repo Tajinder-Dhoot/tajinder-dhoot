@@ -1,4 +1,4 @@
-# Hi Visitor! 👋 My name is Tajinder Singh Dhoot 👳‍♂️
+# Hi Visitor! 👋 My name is Tajinder Singh Dhoot
 
 #### I am a Software QA Analyst 👨‍💻
 - 🧑‍💼 IT Consultant @ FDM Group
@@ -11,7 +11,6 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
 ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit)&nbsp;
 ![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=flat&logo=testng)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=mvn)&nbsp;
 
 ![Katalon Studio](https://img.shields.io/badge/-KatalonStudio-05122A?style=flat&logo=katalon-studio)&nbsp;
