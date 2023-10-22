@@ -47,15 +47,6 @@
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/Tajinder-Dhoot/UiPpath-project">
-  <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tajinder-Dhoot&repo=UiPpath-project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=github_dark" />
-</a>
-
-<a href="https://github.com/Tajinder-Dhoot/sql-online-course-project">
-  <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tajinder-Dhoot&repo=sql-online-course-project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=github_dark" />
-</a>
-&nbsp;
-
 <a href="https://github.com/Tajinder-Dhoot/rest-apis-testing-project">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tajinder-Dhoot&repo=rest-apis-testing-project &title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=github_dark" />
 </a>
