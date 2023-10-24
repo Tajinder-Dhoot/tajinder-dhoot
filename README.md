@@ -49,7 +49,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tajinder-singh-dhoot"><img src="https://img.shields.io/badge/-Tajinder%20Singh%20Dhoot-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:singhtazinder047@gmail.com"><img src="https://img.shields.io/badge/-singhtazinder047@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:singhtazinder047@gmail.com"><img src="https://img.shields.io/badge/-singhtazinder047@gmail.com-870000?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://hashnode.com/@tajindersinghdhoot"><img src="https://img.shields.io/badge/-Singh Who Codes-3666F8?style=flat&logoColor=white"/></a>
 </p>
 
 ## 📌 Pinned Repositories
