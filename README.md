@@ -5,9 +5,11 @@
 - 🔭 I’m currently working with Staples Canada
 - 🔭 Working on API testing and personal website and blog
 
-#### Thanks for visiting my profile on Github. Let me share with you what I excel in:
+#### Thanks for visiting my profile on Github. 
 
-## ⚔️ Tech Artillery
+![GitHub Views](https://komarev.com/ghpvc/?username=Tajinder-Dhoot&color=3364F5)
+
+## ⚔️ Tech Stack
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
 ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit)&nbsp;
 ![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=flat&logo=testng)&nbsp;
@@ -65,7 +67,6 @@
 </br>
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajinder-dhoot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-  
 
 <!--
 **Tajinder-Dhoot/tajinder-dhoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
