@@ -1,9 +1,8 @@
 # Hi Visitor! 👋 My name is Tajinder Singh Dhoot
 
 #### I am a Software QA Analyst 👨‍💻
-- 🧑‍💼 IT Consultant @ FDM Group
-- 🔭 I’m currently working with Staples Canada
-- 🔭 Working on API testing and personal website and blog
+- 🧑‍💼 IT Consultant @ Staples Canada
+- 🔭 Working on APIs development, personal website and blog
 
 #### Thanks for visiting my profile on Github. 
 
@@ -52,12 +51,6 @@
 <a href="mailto:singhtazinder047@gmail.com"><img src="https://img.shields.io/badge/-singhtazinder047@gmail.com-870000?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://hashnode.com/@tajindersinghdhoot"><img src="https://img.shields.io/badge/-Singh Who Codes-3666F8?style=flat&logoColor=white"/></a>
 </p>
-
-## 📌 Pinned Repositories
-
-<a href="https://github.com/Tajinder-Dhoot/automation-projects">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Tajinder-Dhoot&repo=automation-projects&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=github_dark" />
-</a>
 
 <br>
 </br>
